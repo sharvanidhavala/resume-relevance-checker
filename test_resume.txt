@@ -1,0 +1,42 @@
+John Smith
+Software Engineer
+Email: john.smith@email.com
+Phone: (555) 123-4567
+
+EXPERIENCE:
+Backend Developer | Tech Company Inc. | 2020 - Present
+- Developed Python web applications using Django framework
+- Built REST APIs for mobile and web applications
+- Worked with PostgreSQL databases and optimized queries
+- Implemented unit tests and maintained 90% code coverage
+- Used Git for version control and collaborated in agile teams
+
+Junior Developer | StartupXYZ | 2018 - 2020
+- Created web applications using Flask and Python
+- Worked on API development and database design
+- Experience with MySQL databases
+- Participated in code reviews and pair programming
+
+EDUCATION:
+Bachelor of Science in Computer Science
+University of Technology | 2014 - 2018
+
+SKILLS:
+- Programming Languages: Python, JavaScript, SQL
+- Frameworks: Django, Flask, React
+- Databases: PostgreSQL, MySQL, SQLite
+- Tools: Git, Docker, Linux
+- Cloud: Basic AWS experience
+- Testing: Unit testing, pytest
+
+PROJECTS:
+E-commerce API | Personal Project
+- Built a REST API using Django REST framework
+- Implemented JWT authentication and authorization
+- Used PostgreSQL database with optimized queries
+- Deployed on AWS using Docker containers
+
+Task Management System | Team Project
+- Developed using Flask and React
+- Implemented real-time updates with WebSockets
+- Used Redis for caching and session management

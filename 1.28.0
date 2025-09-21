@@ -1,0 +1,10 @@
+Collecting streamlit
+  Downloading streamlit-1.49.1-py3-none-any.whl.metadata (9.5 kB)
+Collecting altair!=5.4.0,!=5.4.1,<6,>=4.0 (from streamlit)
+  Downloading altair-5.5.0-py3-none-any.whl.metadata (11 kB)
+Collecting blinker<2,>=1.5.0 (from streamlit)
+  Downloading blinker-1.9.0-py3-none-any.whl.metadata (1.6 kB)
+Collecting cachetools<7,>=4.0 (from streamlit)
+  Downloading cachetools-6.2.0-py3-none-any.whl.metadata (5.4 kB)
+Collecting click<9,>=7.0 (from streamlit)
+  Downloading click-8.3.0-py3-none-any.whl.metadata (2.6 kB)

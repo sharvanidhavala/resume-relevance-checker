@@ -1,0 +1,72 @@
+Python Backend Developer - Senior Level
+Location: Hyderabad, India / Remote
+Company: TechCorp Solutions Pvt Ltd
+Employment Type: Full-time
+Experience: 4-6 years
+
+Job Description:
+We are looking for an experienced Python Backend Developer to join our growing engineering team. The ideal candidate will have strong experience in developing scalable web applications, APIs, and microservices using Python and modern frameworks.
+
+Must-Have Skills (Required):
+- Python programming (4+ years experience)
+- Django or Flask framework
+- RESTful API development
+- PostgreSQL or MySQL database
+- Git version control
+- Docker containerization
+- Linux/Unix environment
+- Unit testing and test automation
+- Object-oriented programming principles
+- SQL query optimization
+
+Good-to-Have Skills (Preferred):
+- AWS cloud services (EC2, S3, RDS, Lambda)
+- Redis caching and session management
+- Celery for background task processing
+- GraphQL API development
+- Microservices architecture
+- Kubernetes orchestration
+- CI/CD pipeline setup (Jenkins, GitHub Actions)
+- React or Angular for full-stack development
+- MongoDB or other NoSQL databases
+- Elasticsearch for search functionality
+
+Experience Requirements:
+- 4-6 years of professional Python development experience
+- Minimum 2+ years with Django or Flask frameworks
+- Experience with relational database design and optimization
+- Proven track record of building and maintaining APIs
+- Experience with agile development methodologies
+- Strong debugging and problem-solving skills
+- Experience with code reviews and version control workflows
+
+Education Qualifications:
+- Bachelor's degree in Computer Science, Software Engineering, or related technical field
+- Master's degree preferred but not mandatory
+- Relevant certifications (AWS, Docker, etc.) will be considered as additional qualification
+
+Key Responsibilities:
+- Design and develop scalable backend services and RESTful APIs
+- Collaborate with frontend developers on system integration and API design  
+- Write clean, maintainable, and well-documented code following best practices
+- Participate in code reviews and provide constructive feedback to team members
+- Optimize application performance and database queries for better efficiency
+- Implement automated testing strategies including unit, integration, and API tests
+- Troubleshoot and resolve production issues in a timely manner
+- Work closely with DevOps team on deployment and infrastructure management
+- Mentor junior developers and share technical knowledge within the team
+- Stay updated with latest Python ecosystem developments and industry best practices
+
+Technical Environment:
+- Programming Languages: Python 3.8+, SQL
+- Frameworks: Django 3.x/4.x, Django REST Framework
+- Databases: PostgreSQL, Redis
+- Cloud Platform: AWS (preferred)
+- Tools: Git, Docker, Postman, Jira
+- Operating System: Linux (Ubuntu/CentOS)
+
+Additional Information:
+- Salary: ₹12,00,000 - ₹18,00,000 per annum
+- Benefits: Health insurance, flexible work hours, learning budget
+- Work from home options available
+- Annual performance bonus based on individual and company performance
