@@ -27,30 +27,33 @@ A powerful system that automatically analyzes resumes against job descriptions, 
 ## Project Structure
 
 ```
-resume-relevance-checker/
-├── src/
-│   ├── __init__.py
-│   ├── app.py                 # Main Streamlit application
-│   ├── resume_parser.py       # Resume text extraction and parsing
-│   ├── job_analyzer.py        # Job description analysis
-│   ├── relevance_scorer.py    # Scoring algorithms
-│   ├── semantic_matcher.py    # Advanced semantic matching
-│   └── utils.py               # Helper functions
-├── config/
-│   ├── __init__.py
-│   └── settings.py            # Configuration settings
-├── tests/
-│   ├── __init__.py
-│   ├── test_parser.py
-│   └── test_scorer.py
-├── uploads/                   # Uploaded files storage
-├── sample_data/              # Sample resumes and job descriptions
-├── docs/                     # Documentation
-├── requirements.txt          # Python dependencies
-└── README.md                # This file
-```
-
-## Quick Start
+Resume-Relevance-Project/
+│
+├── app.py                     ← Main application
+├── run.py                     ← Optional alternative script to run the app
+├── requirements.txt           ← Python dependencies
+├── README.md                  ← Project overview
+├── .env.example               ← Example environment variables
+│
+├── config/                    ← Configuration files
+│   └── settings.py
+│
+├── sample_data/               ← Sample datasets or job descriptions
+│   └── job_python_developer.txt
+│
+├── src/                       ← Core Python modules
+│   ├── resume_parser.py
+│   ├── job_analyzer.py
+│   ├── keyword_matcher.py
+│   ├── relevance_scorer.py
+│   ├── semantic_matcher.py
+│   ├── workflow_manager.py
+│   ├── vector_store.py
+│   ├── utils.py
+│   └── langchain_workflow.py
+│
+├── pages/                     ← Dashboard or frontend pages
+│   └── 2_Admin_Dashboard.py
 
 ### Simple Installation
 
