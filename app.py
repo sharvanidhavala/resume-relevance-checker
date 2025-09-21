@@ -1,4 +1,7 @@
-from src.app import main  # src/app.py should have a function called main()
+# src/app.py
+import streamlit as st
+# ... other imports
 
-if _name_ == "_main_":
-    main()
+def main():
+    st.title("Resume Relevance Checker")
+    # all your existing Streamlit code goes her

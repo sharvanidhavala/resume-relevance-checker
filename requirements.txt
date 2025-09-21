@@ -21,20 +21,15 @@ scikit-learn==1.3.2
 numpy==1.24.4
 pandas==1.5.3
 
-# LangChain Framework (Required)
+# LangChain (minimal needed)
 langchain==0.1.20
 langchain-openai==0.1.8
-langchain-core==0.1.52
-langgraph==0.0.69
-langsmith==0.1.85
 
-# Vector Search and Embeddings
-faiss-cpu==1.7.4
+# Vector Search (optional, remove if failing)
 chromadb==0.4.15
 
-# Database
-sqlite3  # Built into Python
-psycopg2-binary==2.9.9  # For PostgreSQL if needed
+# Database (built-in SQLite, no need to install)
+psycopg2-binary==2.9.9
 
 # Utilities
 python-dotenv==1.0.0
@@ -49,15 +44,6 @@ pydantic==2.5.0
 python-multipart==0.0.6
 Pillow==10.1.0
 
-# Development and Testing
-pytest==7.4.3
-pytest-asyncio==0.21.1
-black==23.11.0
-flake8==6.1.0
-
 # Fuzzy String Matching
 fuzzywuzzy==0.18.0
 python-Levenshtein==0.21.1
-
-# Additional NLP Models (optional)
-# en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
